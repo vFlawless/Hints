@@ -1,5 +1,4 @@
-public class Solution {
-    public int Reverse_String(string word) {
+public int Reverse_String(string word) {
         
-    }
 }
+
