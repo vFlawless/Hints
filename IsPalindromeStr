@@ -1,5 +1,3 @@
-public class Solution {
-    public bool IsPalindromeStr(string word) {
-        
-    }
+public bool IsPalindromeStr(string word) {
+
 }
