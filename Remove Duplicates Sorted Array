@@ -1,5 +1,3 @@
-public class Solution {
-    public int RemoveDuplicates(int[] nums) {
+public int RemoveDuplicates(int[] nums) {
         
-    }
 }
