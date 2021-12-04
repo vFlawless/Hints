@@ -1,0 +1,4 @@
+public bool Contains(int[] vs, int contain)
+{
+}
+ 
