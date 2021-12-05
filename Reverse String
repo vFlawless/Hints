@@ -1,4 +1,3 @@
-public int Reverse_String(string word) {
+public string Reverse_String(string word) {
         
 }
-
