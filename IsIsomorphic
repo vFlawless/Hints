@@ -1,0 +1,8 @@
+public bool IsIsomorphic(string s, string t) {      
+}
+
+//Example: Input: s = "egg", t = "add"
+//         Output: true
+
+//          Input: s = "foo", t = "bar"
+//          Output: false
