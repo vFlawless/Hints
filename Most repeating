@@ -1,0 +1,13 @@
+public string[] MostReapiting(char[] characters){
+}
+
+
+//Lass die Möglichkeit, dass zwei character gleichermaßen vorkommen außen vor oder um die Schwierigketi zu erhöhen, nimm den character, der am Frühesten im Alphabet kommt
+
+//Example: characters = {'a','a','b','a'} 
+//Output: a, 3    -->da er 2mal hintereinander vorkommt-->öfter als b und insgesamt 3 mal vorkommt 
+
+//Example: characters = {'a','a','b','a','b','b','b','a','a'}
+//Output: b, 4 --> da b 3mal in Folge vorkommt --> mehr als a und insgesamt 4mal  (a kommt 5mal vor)
+
+//Natürlich könnne auch mehr als 2 verscheidenen character in einem Array vorkommen.
