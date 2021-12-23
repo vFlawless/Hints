@@ -1,2 +1,2 @@
-public bool TwoSum(int[] nums, int[] nums2){
+public bool TwoSum(int[] nums, int[] nums2, int target){
 }
